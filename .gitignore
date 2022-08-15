@@ -1,0 +1,7 @@
+*.pem
+*.key
+*.csr
+*.cert
+chris.py
+.idea
+dest.dat
